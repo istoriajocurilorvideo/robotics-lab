@@ -1,4 +1,4 @@
-#Laboratory Homeworks for the Introduction to Robotics Courses @ University of Bucharest (Unibuc Robotics)
+# Laboratory Homeworks for the Introduction to Robotics Courses @ University of Bucharest (Unibuc Robotics)
 
 3PotentiometersRGB : Controlling the colors of the RGB LED by reading the value of the potentiometers and mapping each one to a color: R, G, or B
 2nd Homework
