@@ -6,12 +6,12 @@ It is an arcade game where the player has to save as many crews from the remaini
 ## How to play
 
 ### Gameplay
-This is your spaceship represented by the 2 dots on the screen  
+This is your spaceship represented by the two dots on the screen  
 ![image](https://github.com/istoriajocurilorvideo/robotics-lab/blob/master/Matrix%20game/Images/spaceship.png)
 
 
 ![image](https://github.com/istoriajocurilorvideo/robotics-lab/blob/master/Matrix%20game/Images/gameplay.png)
-
+  
 
 ### Gamepad Buttons
 On your gamepad you will have three buttons named A, B, X and a joystick.  
