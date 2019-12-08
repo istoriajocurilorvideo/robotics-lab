@@ -12,11 +12,11 @@ Using A and B you will move your spaceship forward or backward. The joystick wil
 ## Game System
 
 ## Hardware
-8x8 LED matrix
-LCD
-Joystick
-MAX7219 Driver
-Buttons
-Buzzer
+8x8 LED matrix  
+LCD  
+Joystick  
+MAX7219 Driver  
+Buttons  
+Buzzer  
 
 ## Demo Video
