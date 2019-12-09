@@ -26,11 +26,11 @@ Using A and B you will move your spaceship forward or backward. The joystick wil
 ## Game System
 
 ### Main menu
-Here we have five main tabs that you can select from (these tabs will be show up on the LCD):
--> Play game
--> Highscore
--> Settings
--> Info
+Here we have five main tabs that you can select from (these tabs will be show up on the LCD):   
+-> Play game   
+-> Highscore   
+-> Settings   
+-> Info   
 
 ### Play game
 When playing for the first time it will introduce you to a short story about the game. After that you will have  
